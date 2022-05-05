@@ -1,0 +1,11 @@
+name: "Comment sync"
+author: "binjoo"
+description: "Comment sync to json action"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "activity"
+  color: "green"

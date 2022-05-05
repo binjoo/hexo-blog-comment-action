@@ -1,1 +1,1 @@
-# hexo-blog-comment-action
+# Comment sync for GitHub Actions
